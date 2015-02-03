@@ -1,0 +1,23 @@
+<template name="typeahead">
+  <div class="container row">
+    <span class="col-xs-12 typeahead">
+      <input class="form-control" id="typeahead-hint" tabindex=-1 spellcheck="false" readonly value="{{hint}}">
+      <input class="form-control" id="typeahead" spellcheck="false" placeholder="start typing..."/>
+    </span>
+    <div id="items" class="col-xs-12">
+      {{#unless subscriptionsReady}}
+        {{> spinner}}
+      {{else}}
+        <div class="row">
+          {{#each items}}
+            <div class="col-xs-12">
+              <div class="item">
+                {{{highlightedName}}}
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      {{/unless}}
+    </div>
+  </div>
+</template>
