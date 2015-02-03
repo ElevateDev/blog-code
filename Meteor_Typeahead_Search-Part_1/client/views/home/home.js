@@ -27,7 +27,6 @@ Template.typeahead.helpers({
     return "";
   },
   highlightedName: function(){
-    var model = UI._templateInstance().model;
     return _.escape(this.name).replace(new RegExp(Session.get("searchTerm"),"ig"),'<strong>$&</strong>');
   }
 });

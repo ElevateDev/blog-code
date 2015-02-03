@@ -1,0 +1,28 @@
+.typeahead{
+  position: relative;
+}
+
+#typeahead{
+  position: relative;
+  background: none;
+  background-color: transparent;
+}
+#typeahead-hint{
+  position: absolute;
+  color: #999; // Get creative, best to use something lighter than normal though
+}
+
+#items{
+  position: relative;
+  min-height: 100px;
+  .active{
+    background-color: #eee; 
+  }
+  .item{
+    border-bottom: 1px solid #999;
+    &:hover{ 
+      background-color: #efefef; 
+    }
+    padding: 15px;
+  }
+}
