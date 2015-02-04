@@ -7035,7 +7035,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "be4852e5939626fd64c59a7bbcc1efaf47ee67f3"
+                  "value": "d80a518b93338144094b118509dfc3ec3b5f8671"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7159,7 +7159,7 @@ var packageMetadata = {
             },
             "connections": {
               "type": "constant",
-              "value": 9
+              "value": 2
             },
             "timeout": {
               "type": "constant",
@@ -7270,7 +7270,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/underscore.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/underscore.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7287,7 +7287,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
                 }
               }
             },
@@ -7296,7 +7296,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteor.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteor.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7313,7 +7313,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
                 }
               }
             },
@@ -7322,7 +7322,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/json.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/json.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7339,7 +7339,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/json.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/json.js.map"
                 }
               }
             },
@@ -7348,7 +7348,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/base64.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/base64.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7365,7 +7365,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/base64.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/base64.js.map"
                 }
               }
             },
@@ -7374,7 +7374,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ejson.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ejson.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7391,7 +7391,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
                 }
               }
             },
@@ -7400,7 +7400,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/logging.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/logging.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7417,7 +7417,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/logging.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/logging.js.map"
                 }
               }
             },
@@ -7426,7 +7426,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reload.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reload.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7443,7 +7443,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reload.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reload.js.map"
                 }
               }
             },
@@ -7452,7 +7452,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/tracker.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/tracker.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7469,7 +7469,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
                 }
               }
             },
@@ -7478,7 +7478,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/random.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/random.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7495,7 +7495,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/random.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/random.js.map"
                 }
               }
             },
@@ -7504,7 +7504,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/retry.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/retry.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7521,7 +7521,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/retry.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/retry.js.map"
                 }
               }
             },
@@ -7530,7 +7530,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/check.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/check.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7547,7 +7547,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/check.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/check.js.map"
                 }
               }
             },
@@ -7556,7 +7556,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/id-map.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/id-map.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7573,7 +7573,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
                 }
               }
             },
@@ -7582,7 +7582,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7599,7 +7599,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
                 }
               }
             },
@@ -7608,7 +7608,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7625,7 +7625,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
                 }
               }
             },
@@ -7634,7 +7634,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/minimongo.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/minimongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7651,7 +7651,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
                 }
               }
             },
@@ -7660,7 +7660,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ddp.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ddp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7677,7 +7677,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
                 }
               }
             },
@@ -7686,7 +7686,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7703,7 +7703,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
                 }
               }
             },
@@ -7712,7 +7712,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7729,7 +7729,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
                 }
               }
             },
@@ -7738,7 +7738,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mongo.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7755,7 +7755,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
                 }
               }
             },
@@ -7764,7 +7764,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7781,7 +7781,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
                 }
               }
             },
@@ -7790,7 +7790,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7807,7 +7807,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
                 }
               }
             },
@@ -7816,7 +7816,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/less.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/less.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7833,7 +7833,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/less.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/less.js.map"
                 }
               }
             },
@@ -7842,7 +7842,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/localstorage.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/localstorage.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7859,7 +7859,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
                 }
               }
             },
@@ -7868,7 +7868,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/jquery.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/jquery.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7885,7 +7885,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
                 }
               }
             },
@@ -7894,7 +7894,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/deps.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/deps.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7911,7 +7911,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/deps.js.map"
                 }
               }
             },
@@ -7920,7 +7920,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/htmljs.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/htmljs.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7937,7 +7937,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
                 }
               }
             },
@@ -7946,7 +7946,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7963,7 +7963,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
                 }
               }
             },
@@ -7972,7 +7972,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7989,7 +7989,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
                 }
               }
             },
@@ -7998,7 +7998,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/blaze.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/blaze.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8015,7 +8015,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
                 }
               }
             },
@@ -8024,7 +8024,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8041,7 +8041,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
                 }
               }
             },
@@ -8050,7 +8050,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sha.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sha.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8067,7 +8067,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sha.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sha.js.map"
                 }
               }
             },
@@ -8076,7 +8076,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/srp.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/srp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8093,7 +8093,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/srp.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/srp.js.map"
                 }
               }
             },
@@ -8102,7 +8102,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8119,7 +8119,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
                 }
               }
             },
@@ -8128,7 +8128,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/templating.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/templating.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8145,7 +8145,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/templating.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/templating.js.map"
                 }
               }
             },
@@ -8154,7 +8154,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ui.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8171,7 +8171,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/ui.js.map"
                 }
               }
             },
@@ -8180,7 +8180,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_core.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8197,7 +8197,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
                 }
               }
             },
@@ -8206,7 +8206,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8223,7 +8223,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
                 }
               }
             },
@@ -8232,7 +8232,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8249,7 +8249,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
                 }
               }
             },
@@ -8258,7 +8258,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_url.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8275,7 +8275,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
                 }
               }
             },
@@ -8284,7 +8284,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8301,7 +8301,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
                 }
               }
             },
@@ -8310,7 +8310,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_location.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_location.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8327,7 +8327,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
                 }
               }
             },
@@ -8336,7 +8336,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8353,7 +8353,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
                 }
               }
             },
@@ -8362,7 +8362,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8379,7 +8379,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
                 }
               }
             },
@@ -8388,7 +8388,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_router.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_router.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8405,7 +8405,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
                 }
               }
             },
@@ -8414,7 +8414,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8431,7 +8431,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js.map"
                 }
               }
             },
@@ -8440,7 +8440,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8457,7 +8457,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
                 }
               }
             },
@@ -8466,7 +8466,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8483,7 +8483,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js.map"
                 }
               }
             },
@@ -8492,7 +8492,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/useraccounts_bootstrap.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/useraccounts_bootstrap.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8509,7 +8509,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/useraccounts_bootstrap.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/useraccounts_bootstrap.js.map"
                 }
               }
             },
@@ -8518,7 +8518,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/alanning_roles.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/alanning_roles.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8535,7 +8535,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/alanning_roles.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/alanning_roles.js.map"
                 }
               }
             },
@@ -8544,7 +8544,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8561,7 +8561,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js.map"
                 }
               }
             },
@@ -8570,7 +8570,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8587,7 +8587,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js.map"
                 }
               }
             },
@@ -8596,7 +8596,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/cmather_handlebars-server.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/cmather_handlebars-server.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8613,7 +8613,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/cmather_handlebars-server.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/cmather_handlebars-server.js.map"
                 }
               }
             },
@@ -8622,7 +8622,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8639,7 +8639,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js.map"
                 }
               }
             },
@@ -8648,7 +8648,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reywood_publish-composite.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reywood_publish-composite.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8665,7 +8665,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/reywood_publish-composite.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/reywood_publish-composite.js.map"
                 }
               }
             },
@@ -8674,7 +8674,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mrt_moment.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mrt_moment.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8691,7 +8691,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mrt_moment.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mrt_moment.js.map"
                 }
               }
             },
@@ -8700,7 +8700,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mrt_underscore-string-latest.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mrt_underscore-string-latest.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8717,7 +8717,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/mrt_underscore-string-latest.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/mrt_underscore-string-latest.js.map"
                 }
               }
             },
@@ -8726,7 +8726,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8743,7 +8743,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js.map"
                 }
               }
             },
@@ -8752,7 +8752,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/dburles_factory.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/dburles_factory.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8769,7 +8769,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/dburles_factory.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/dburles_factory.js.map"
                 }
               }
             },
@@ -8778,7 +8778,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/anti_fake.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/anti_fake.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8795,7 +8795,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/anti_fake.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/anti_fake.js.map"
                 }
               }
             },
@@ -8804,7 +8804,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/cunneen_mailgun.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/cunneen_mailgun.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8821,7 +8821,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/cunneen_mailgun.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/cunneen_mailgun.js.map"
                 }
               }
             },
@@ -8830,7 +8830,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/session.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/session.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8847,7 +8847,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/session.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/session.js.map"
                 }
               }
             },
@@ -8856,7 +8856,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/yasinuslu_blaze-meta.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/yasinuslu_blaze-meta.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8873,7 +8873,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/yasinuslu_blaze-meta.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/yasinuslu_blaze-meta.js.map"
                 }
               }
             },
@@ -8882,7 +8882,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8899,7 +8899,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data.js.map"
                 }
               }
             },
@@ -8908,7 +8908,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8925,7 +8925,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap.js.map"
                 }
               }
             },
@@ -8934,7 +8934,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8951,7 +8951,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
                 }
               }
             },
@@ -8960,7 +8960,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-ui-unstyled.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-ui-unstyled.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8977,7 +8977,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-ui-unstyled.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-ui-unstyled.js.map"
                 }
               }
             },
@@ -8986,7 +8986,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-ui.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9003,7 +9003,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/accounts-ui.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/accounts-ui.js.map"
                 }
               }
             },
@@ -9012,7 +9012,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/percolatestudio_percolatestudio-migrations.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/percolatestudio_percolatestudio-migrations.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9029,7 +9029,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/percolatestudio_percolatestudio-migrations.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/percolatestudio_percolatestudio-migrations.js.map"
                 }
               }
             },
@@ -9038,7 +9038,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/peppelg_on-login-logout.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/peppelg_on-login-logout.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9055,7 +9055,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/peppelg_on-login-logout.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/peppelg_on-login-logout.js.map"
                 }
               }
             },
@@ -9064,7 +9064,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/percolate_synced-cron.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/percolate_synced-cron.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9081,7 +9081,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/percolate_synced-cron.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/percolate_synced-cron.js.map"
                 }
               }
             },
@@ -9090,7 +9090,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9107,7 +9107,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js.map"
                 }
               }
             },
@@ -9116,7 +9116,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/livedata.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9133,7 +9133,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
                 }
               }
             },
@@ -9142,7 +9142,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/momentjs_moment.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/momentjs_moment.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9159,7 +9159,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/momentjs_moment.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/momentjs_moment.js.map"
                 }
               }
             },
@@ -9168,7 +9168,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9185,7 +9185,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js.map"
                 }
               }
             },
@@ -9194,7 +9194,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_autoform.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_autoform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9211,7 +9211,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/aldeed_autoform.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/aldeed_autoform.js.map"
                 }
               }
             },
@@ -9220,7 +9220,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9237,7 +9237,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
                 }
               }
             },
@@ -9246,7 +9246,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9263,7 +9263,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
                 }
               }
             },
@@ -9272,7 +9272,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9289,7 +9289,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
                 }
               }
             },
@@ -9298,7 +9298,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9315,7 +9315,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
                 }
               }
             },
@@ -9324,7 +9324,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9341,7 +9341,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
                 }
               }
             },
@@ -9350,7 +9350,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/amplify.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/amplify.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9367,7 +9367,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
                 }
               }
             },
@@ -9376,7 +9376,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9393,7 +9393,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
                 }
               }
             },
@@ -9402,7 +9402,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/elevatedevdesign_template-subscriptions.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/elevatedevdesign_template-subscriptions.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9419,7 +9419,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/elevatedevdesign_template-subscriptions.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/elevatedevdesign_template-subscriptions.js.map"
                 }
               }
             },
@@ -9428,7 +9428,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9445,7 +9445,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
                 }
               }
             },
@@ -9454,7 +9454,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteorhacks_subs-manager.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteorhacks_subs-manager.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9471,7 +9471,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/meteorhacks_subs-manager.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/meteorhacks_subs-manager.js.map"
                 }
               }
             },
@@ -9480,7 +9480,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/webapp.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/webapp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9497,7 +9497,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
                 }
               }
             },
@@ -9506,7 +9506,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/spacebars.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/spacebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9523,7 +9523,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
                 }
               }
             },
@@ -9532,7 +9532,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9549,7 +9549,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
                 }
               }
             },
@@ -9558,7 +9558,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/global-imports.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/global-imports.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9574,7 +9574,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/home/template.home.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/home/template.home.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9590,7 +9590,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.footer.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.footer.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9606,7 +9606,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.header.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.header.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9622,7 +9622,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.layout.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9638,7 +9638,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/shared/template.loading.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/shared/template.loading.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9654,7 +9654,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/shared/template.notFound.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/shared/template.notFound.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9670,7 +9670,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/lib/accounts/config.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/lib/accounts/config.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9686,7 +9686,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/lib/collections/collection.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/lib/collections/collection.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9702,7 +9702,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/lib/routes/config.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/lib/routes/config.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9718,7 +9718,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/lib/routes/home.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/lib/routes/home.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9734,7 +9734,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/views/home/home.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/views/home/home.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9750,7 +9750,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/transition.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/transition.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9766,7 +9766,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/collapse.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/collapse.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9782,7 +9782,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/dropdown.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/dropdown.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9798,7 +9798,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/modal.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/modal.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9814,7 +9814,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/tooltip.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/tooltip.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9830,7 +9830,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/popover.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/popover.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9846,7 +9846,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/carousel.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/carousel.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9862,7 +9862,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/affix.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/affix.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9878,7 +9878,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/alert.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/alert.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9894,7 +9894,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/button.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/button.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9910,7 +9910,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/scrollspy.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/scrollspy.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9926,7 +9926,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/bootstrap/js/tab.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/bootstrap/js/tab.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9942,7 +9942,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/client/accounts.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/client/accounts.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9958,7 +9958,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9975,7 +9975,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
                 }
               }
             },
@@ -9984,7 +9984,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -10001,20 +10001,20 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
                 }
               }
             },
-            "/dc7232dcf379091bed3d390729e2feb6754c59af.css": {
+            "/d3912a4ad45c4ebe4c8461833aa477ef13afac65.css": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/dc7232dcf379091bed3d390729e2feb6754c59af.css"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/d3912a4ad45c4ebe4c8461833aa477ef13afac65.css"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/dc7232dcf379091bed3d390729e2feb6754c59af.map"
+                  "value": "/d3912a4ad45c4ebe4c8461833aa477ef13afac65.map"
                 },
                 "type": {
                   "type": "constant",
@@ -10022,12 +10022,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/dc7232dcf379091bed3d390729e2feb6754c59af.map": {
+            "/d3912a4ad45c4ebe4c8461833aa477ef13afac65.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/dc7232dcf379091bed3d390729e2feb6754c59af.css.map"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/d3912a4ad45c4ebe4c8461833aa477ef13afac65.css.map"
                 }
               }
             },
@@ -10036,7 +10036,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10052,7 +10052,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10068,7 +10068,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10084,7 +10084,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10100,7 +10100,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10116,7 +10116,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10132,7 +10132,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10148,7 +10148,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-114x114.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-114x114.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10164,7 +10164,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-120x120.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-120x120.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10180,7 +10180,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-144x144.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-144x144.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10196,7 +10196,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-152x152.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-152x152.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10212,7 +10212,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-57x57.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-57x57.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10228,7 +10228,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-60x60.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-60x60.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10244,7 +10244,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-72x72.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-72x72.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10260,7 +10260,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-76x76.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-76x76.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10276,7 +10276,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-precomposed.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon-precomposed.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10292,7 +10292,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/apple-touch-icon.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10308,7 +10308,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/browserconfig.xml"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/browserconfig.xml"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10324,7 +10324,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-160x160.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-160x160.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10340,7 +10340,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-16x16.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-16x16.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10356,7 +10356,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-192x192.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-192x192.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10372,7 +10372,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-32x32.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-32x32.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10388,7 +10388,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-96x96.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon-96x96.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10404,7 +10404,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/favicon.ico"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/favicon.ico"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10420,7 +10420,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-144x144.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-144x144.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10436,7 +10436,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-150x150.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-150x150.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10452,7 +10452,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-310x150.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-310x150.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10468,7 +10468,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-310x310.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-310x310.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10484,7 +10484,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-70x70.png"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2/.meteor/local/build/programs/web.browser/app/images/favicons/mstile-70x70.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -10500,7 +10500,7 @@ var packageMetadata = {
               "members": {
                 "content": {
                   "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?81e2f06cff198adaa81b3bc09fc4f3728b7370ec\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map\",\"size\":109437,\"hash\":\"81e2f06cff198adaa81b3bc09fc4f3728b7370ec\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?517c8fe8ed6408951a30941e64a5383a7174bcfa\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map\",\"size\":68185,\"hash\":\"517c8fe8ed6408951a30941e64a5383a7174bcfa\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map\",\"size\":35647,\"hash\":\"ac81167b8513b85b926c167bba423981b0c4cf9c\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?e8806aa7782b729b2517ebc0cd10b321667f1427\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map\",\"size\":455881,\"hash\":\"e8806aa7782b729b2517ebc0cd10b321667f1427\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map\",\"size\":617153,\"hash\":\"41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?052f30e968644b2b39a96605ffee73a7684ff37b\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map\",\"size\":147662,\"hash\":\"052f30e968644b2b39a96605ffee73a7684ff37b\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9a5ea03bf057815385bf569c7acc2c285c005491\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map\",\"size\":17152,\"hash\":\"9a5ea03bf057815385bf569c7acc2c285c005491\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map\",\"size\":1296513,\"hash\":\"dd8bac56f8fd3666d433d2285ae01e52597cc51a\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map\",\"size\":60161,\"hash\":\"567eb96d5d22631c03d6aca6afa4c42f0d1295f2\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?efa68f65e67544b5a05509804bf97e2c91ce75eb\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map\",\"size\":391530,\"hash\":\"efa68f65e67544b5a05509804bf97e2c91ce75eb\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?88bb0577cebfbd40b522bb337f8ff8af92244c2f\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map\",\"size\":109093,\"hash\":\"88bb0577cebfbd40b522bb337f8ff8af92244c2f\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?3845cc71ad2dc1378b7d8cc4164a78359506dd40\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map\",\"size\":33170,\"hash\":\"3845cc71ad2dc1378b7d8cc4164a78359506dd40\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?d425554c9847e4a80567f8ca55719cd6ae3f2722\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/d425554c9847e4a80567f8ca55719cd6ae3f2722.map\",\"size\":86389,\"hash\":\"d425554c9847e4a80567f8ca55719cd6ae3f2722\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?6979e41649a22dcf609df30fc533e36037c7ae58\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/6979e41649a22dcf609df30fc533e36037c7ae58.map\",\"size\":69302,\"hash\":\"6979e41649a22dcf609df30fc533e36037c7ae58\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?0e0f6983a838a6516556b08e62894f89720e2c44\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/0e0f6983a838a6516556b08e62894f89720e2c44.map\",\"size\":47239,\"hash\":\"0e0f6983a838a6516556b08e62894f89720e2c44\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map\",\"size\":52275,\"hash\":\"ca4f0f6672edbfb6cafab6e5c024208d9364eac9\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?b02790701804563eafedb2e68c602154983ade06\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/b02790701804563eafedb2e68c602154983ade06.map\",\"size\":41091,\"hash\":\"b02790701804563eafedb2e68c602154983ade06\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?a427868585af16bb88b7c9996b2449aebb8dbf51\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/a427868585af16bb88b7c9996b2449aebb8dbf51.map\",\"size\":216733,\"hash\":\"a427868585af16bb88b7c9996b2449aebb8dbf51\"},{\"path\":\"packages/useraccounts_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_core.js?340d573e558750fc0594085291b63c493facf666\",\"sourceMap\":\"packages/useraccounts_core.js.map\",\"sourceMapUrl\":\"/packages/340d573e558750fc0594085291b63c493facf666.map\",\"size\":284163,\"hash\":\"340d573e558750fc0594085291b63c493facf666\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/softwarerero_accounts-t9n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/softwarerero_accounts-t9n.js?4979cb752c12f089d38eb01cd3df6a744b45f5b4\",\"sourceMap\":\"packages/softwarerero_accounts-t9n.js.map\",\"sourceMapUrl\":\"/packages/4979cb752c12f089d38eb01cd3df6a744b45f5b4.map\",\"size\":135304,\"hash\":\"4979cb752c12f089d38eb01cd3df6a744b45f5b4\"},{\"path\":\"packages/useraccounts_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_bootstrap.js?ae73de95a52cbd1f4ff586494851df89a4095e16\",\"sourceMap\":\"packages/useraccounts_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/ae73de95a52cbd1f4ff586494851df89a4095e16.map\",\"size\":103091,\"hash\":\"ae73de95a52cbd1f4ff586494851df89a4095e16\"},{\"path\":\"packages/alanning_roles.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/alanning_roles.js?79ec06e46df4edfbc286f83d1ad8064d46d44990\",\"sourceMap\":\"packages/alanning_roles.js.map\",\"sourceMapUrl\":\"/packages/79ec06e46df4edfbc286f83d1ad8064d46d44990.map\",\"size\":94498,\"hash\":\"79ec06e46df4edfbc286f83d1ad8064d46d44990\"},{\"path\":\"packages/wizonesolutions_underscore-string.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/wizonesolutions_underscore-string.js?cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\",\"sourceMap\":\"packages/wizonesolutions_underscore-string.js.map\",\"sourceMapUrl\":\"/packages/cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc.map\",\"size\":84636,\"hash\":\"cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\"},{\"path\":\"packages/zimme_iron-router-active.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/zimme_iron-router-active.js?ba8ca19a10973351750da7586ef45c7bfdb13035\",\"sourceMap\":\"packages/zimme_iron-router-active.js.map\",\"sourceMapUrl\":\"/packages/ba8ca19a10973351750da7586ef45c7bfdb13035.map\",\"size\":4369,\"hash\":\"ba8ca19a10973351750da7586ef45c7bfdb13035\"},{\"path\":\"packages/cmather_handlebars-server.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/cmather_handlebars-server.js?c6447646a77dd2f090e33422fff58fbec1bbd4f6\",\"sourceMap\":\"packages/cmather_handlebars-server.js.map\",\"sourceMapUrl\":\"/packages/c6447646a77dd2f090e33422fff58fbec1bbd4f6.map\",\"size\":1310,\"hash\":\"c6447646a77dd2f090e33422fff58fbec1bbd4f6\"},{\"path\":\"packages/dburles_collection-helpers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/dburles_collection-helpers.js?10b8845e36a7fe0526609cd1095b7dae30b9ed8e\",\"sourceMap\":\"packages/dburles_collection-helpers.js.map\",\"sourceMapUrl\":\"/packages/10b8845e36a7fe0526609cd1095b7dae30b9ed8e.map\",\"size\":3586,\"hash\":\"10b8845e36a7fe0526609cd1095b7dae30b9ed8e\"},{\"path\":\"packages/reywood_publish-composite.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reywood_publish-composite.js?f8a4b4678e93f2105df0857cbdfdac20530f2702\",\"sourceMap\":\"packages/reywood_publish-composite.js.map\",\"sourceMapUrl\":\"/packages/f8a4b4678e93f2105df0857cbdfdac20530f2702.map\",\"size\":1310,\"hash\":\"f8a4b4678e93f2105df0857cbdfdac20530f2702\"},{\"path\":\"packages/mrt_moment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_moment.js?d7e4a40c3c8d0a0bbca78591d0b5385f3271212c\",\"sourceMap\":\"packages/mrt_moment.js.map\",\"sourceMapUrl\":\"/packages/d7e4a40c3c8d0a0bbca78591d0b5385f3271212c.map\",\"size\":359656,\"hash\":\"d7e4a40c3c8d0a0bbca78591d0b5385f3271212c\"},{\"path\":\"packages/mrt_underscore-string-latest.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_underscore-string-latest.js?a38ecc39a67ea4036d5d875dd102f3d8ad73174d\",\"sourceMap\":\"packages/mrt_underscore-string-latest.js.map\",\"sourceMapUrl\":\"/packages/a38ecc39a67ea4036d5d875dd102f3d8ad73174d.map\",\"size\":84515,\"hash\":\"a38ecc39a67ea4036d5d875dd102f3d8ad73174d\"},{\"path\":\"packages/matb33_collection-hooks.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/matb33_collection-hooks.js?9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa\",\"sourceMap\":\"packages/matb33_collection-hooks.js.map\",\"sourceMapUrl\":\"/packages/9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa.map\",\"size\":72984,\"hash\":\"9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa\"},{\"path\":\"packages/dburles_factory.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/dburles_factory.js?ec6c42c3dfd8ca1b5834bd097904221bce1f1288\",\"sourceMap\":\"packages/dburles_factory.js.map\",\"sourceMapUrl\":\"/packages/ec6c42c3dfd8ca1b5834bd097904221bce1f1288.map\",\"size\":13615,\"hash\":\"ec6c42c3dfd8ca1b5834bd097904221bce1f1288\"},{\"path\":\"packages/anti_fake.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_fake.js?03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad\",\"sourceMap\":\"packages/anti_fake.js.map\",\"sourceMapUrl\":\"/packages/03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad.map\",\"size\":25176,\"hash\":\"03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad\"},{\"path\":\"packages/cunneen_mailgun.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/cunneen_mailgun.js?cc2e1bd8273f433a11fd3b142741d361dc533071\",\"sourceMap\":\"packages/cunneen_mailgun.js.map\",\"sourceMapUrl\":\"/packages/cc2e1bd8273f433a11fd3b142741d361dc533071.map\",\"size\":1364,\"hash\":\"cc2e1bd8273f433a11fd3b142741d361dc533071\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/yasinuslu_blaze-meta.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/yasinuslu_blaze-meta.js?7ef4c16332798864c7f94758409967c40858b01f\",\"sourceMap\":\"packages/yasinuslu_blaze-meta.js.map\",\"sourceMapUrl\":\"/packages/7ef4c16332798864c7f94758409967c40858b01f.map\",\"size\":14078,\"hash\":\"7ef4c16332798864c7f94758409967c40858b01f\"},{\"path\":\"packages/nemo64_bootstrap-data.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/nemo64_bootstrap-data.js?5668c42202b40f6c6ea45d87def47b9c6ced760c\",\"sourceMap\":\"packages/nemo64_bootstrap-data.js.map\",\"sourceMapUrl\":\"/packages/5668c42202b40f6c6ea45d87def47b9c6ced760c.map\",\"size\":1388,\"hash\":\"5668c42202b40f6c6ea45d87def47b9c6ced760c\"},{\"path\":\"packages/nemo64_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/nemo64_bootstrap.js?ec67e21097838440b595b9cec9f3aca5493efadb\",\"sourceMap\":\"packages/nemo64_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/ec67e21097838440b595b9cec9f3aca5493efadb.map\",\"size\":1431,\"hash\":\"ec67e21097838440b595b9cec9f3aca5493efadb\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/accounts-ui-unstyled.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-ui-unstyled.js?1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183\",\"sourceMap\":\"packages/accounts-ui-unstyled.js.map\",\"sourceMapUrl\":\"/packages/1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183.map\",\"size\":249920,\"hash\":\"1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183\"},{\"path\":\"packages/accounts-ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-ui.js?1ff79db616cce9b320fe8aed6103eded31248467\",\"sourceMap\":\"packages/accounts-ui.js.map\",\"sourceMapUrl\":\"/packages/1ff79db616cce9b320fe8aed6103eded31248467.map\",\"size\":1346,\"hash\":\"1ff79db616cce9b320fe8aed6103eded31248467\"},{\"path\":\"packages/percolatestudio_percolatestudio-migrations.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolatestudio_percolatestudio-migrations.js?0353f762f9f3842bc7ff18b335021afcb51552b7\",\"sourceMap\":\"packages/percolatestudio_percolatestudio-migrations.js.map\",\"sourceMapUrl\":\"/packages/0353f762f9f3842bc7ff18b335021afcb51552b7.map\",\"size\":1327,\"hash\":\"0353f762f9f3842bc7ff18b335021afcb51552b7\"},{\"path\":\"packages/peppelg_on-login-logout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/peppelg_on-login-logout.js?58272bb1e22336adf7b3627d97d975293e5f30ac\",\"sourceMap\":\"packages/peppelg_on-login-logout.js.map\",\"sourceMapUrl\":\"/packages/58272bb1e22336adf7b3627d97d975293e5f30ac.map\",\"size\":4957,\"hash\":\"58272bb1e22336adf7b3627d97d975293e5f30ac\"},{\"path\":\"packages/percolate_synced-cron.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolate_synced-cron.js?96fe89b6369ab8b137588115c2138a6da19409cb\",\"sourceMap\":\"packages/percolate_synced-cron.js.map\",\"sourceMapUrl\":\"/packages/96fe89b6369ab8b137588115c2138a6da19409cb.map\",\"size\":1306,\"hash\":\"96fe89b6369ab8b137588115c2138a6da19409cb\"},{\"path\":\"packages/aldeed_simple-schema.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_simple-schema.js?8fda161c43c0ba62801a10b0dfcc3eab75c6db88\",\"sourceMap\":\"packages/aldeed_simple-schema.js.map\",\"sourceMapUrl\":\"/packages/8fda161c43c0ba62801a10b0dfcc3eab75c6db88.map\",\"size\":484169,\"hash\":\"8fda161c43c0ba62801a10b0dfcc3eab75c6db88\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/momentjs_moment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/momentjs_moment.js?d9d4bbdecdb587b374b97f07e2667b0abaf5c73e\",\"sourceMap\":\"packages/momentjs_moment.js.map\",\"sourceMapUrl\":\"/packages/d9d4bbdecdb587b374b97f07e2667b0abaf5c73e.map\",\"size\":375818,\"hash\":\"d9d4bbdecdb587b374b97f07e2667b0abaf5c73e\"},{\"path\":\"packages/aldeed_collection2.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_collection2.js?c35c23c23b5ed785bc3e5b3fb7b1df0c33391790\",\"sourceMap\":\"packages/aldeed_collection2.js.map\",\"sourceMapUrl\":\"/packages/c35c23c23b5ed785bc3e5b3fb7b1df0c33391790.map\",\"size\":70880,\"hash\":\"c35c23c23b5ed785bc3e5b3fb7b1df0c33391790\"},{\"path\":\"packages/aldeed_autoform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_autoform.js?b2b90d28d5cc29be68358bb3c8bb8a337992a7dd\",\"sourceMap\":\"packages/aldeed_autoform.js.map\",\"sourceMapUrl\":\"/packages/b2b90d28d5cc29be68358bb3c8bb8a337992a7dd.map\",\"size\":954267,\"hash\":\"b2b90d28d5cc29be68358bb3c8bb8a337992a7dd\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?cecf2443254038195518d507d5fe0ecdc5dce435\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map\",\"size\":12238,\"hash\":\"cecf2443254038195518d507d5fe0ecdc5dce435\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?a732276f0c2057fc89680d369aad8289b746b7cc\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/a732276f0c2057fc89680d369aad8289b746b7cc.map\",\"size\":557628,\"hash\":\"a732276f0c2057fc89680d369aad8289b746b7cc\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?97f734c1260460f34fb23e644e6a88db38a66a11\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/97f734c1260460f34fb23e644e6a88db38a66a11.map\",\"size\":88652,\"hash\":\"97f734c1260460f34fb23e644e6a88db38a66a11\"},{\"path\":\"packages/elevatedevdesign_template-subscriptions.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/elevatedevdesign_template-subscriptions.js?9c5df61066ff604c2be90a9c860a7a66afc65cf3\",\"sourceMap\":\"packages/elevatedevdesign_template-subscriptions.js.map\",\"sourceMapUrl\":\"/packages/9c5df61066ff604c2be90a9c860a7a66afc65cf3.map\",\"size\":18563,\"hash\":\"9c5df61066ff604c2be90a9c860a7a66afc65cf3\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/meteorhacks_subs-manager.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteorhacks_subs-manager.js?c111c35bff300f100b616995726c151e401eea59\",\"sourceMap\":\"packages/meteorhacks_subs-manager.js.map\",\"sourceMapUrl\":\"/packages/c111c35bff300f100b616995726c151e401eea59.map\",\"size\":19434,\"hash\":\"c111c35bff300f100b616995726c151e401eea59\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?7f53771c84a2eafac2b561c9796dda0d8af8e7f5\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map\",\"size\":42206,\"hash\":\"7f53771c84a2eafac2b561c9796dda0d8af8e7f5\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?cdddc759ebcf80c99a934dcaa85973b3466a07ba\",\"size\":1762,\"hash\":\"cdddc759ebcf80c99a934dcaa85973b3466a07ba\"},{\"path\":\"app/client/views/home/template.home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/home/template.home.js?6bf06c9886f9cafc24a18f33685164a6559abbeb\",\"size\":1714,\"hash\":\"6bf06c9886f9cafc24a18f33685164a6559abbeb\"},{\"path\":\"app/client/views/layouts/template.footer.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.footer.js?b00a9554a62b18ad1eaf1978d35646b97433d336\",\"size\":322,\"hash\":\"b00a9554a62b18ad1eaf1978d35646b97433d336\"},{\"path\":\"app/client/views/layouts/template.header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.header.js?002e7816b1fe8027602f07a9934eb55c5b59eaff\",\"size\":2918,\"hash\":\"002e7816b1fe8027602f07a9934eb55c5b59eaff\"},{\"path\":\"app/client/views/layouts/template.layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.layout.js?995d6bb7ce86170751c77382488be8268716085e\",\"size\":704,\"hash\":\"995d6bb7ce86170751c77382488be8268716085e\"},{\"path\":\"app/client/views/shared/template.loading.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/shared/template.loading.js?aba9532fc1c368feb75ff5efb408f4f18d200be0\",\"size\":256,\"hash\":\"aba9532fc1c368feb75ff5efb408f4f18d200be0\"},{\"path\":\"app/client/views/shared/template.notFound.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/shared/template.notFound.js?2f10489228b204fc8fe50c3862618a62a22179ae\",\"size\":351,\"hash\":\"2f10489228b204fc8fe50c3862618a62a22179ae\"},{\"path\":\"app/lib/accounts/config.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/accounts/config.js?bc4fa4d18ae7e593d77b48d884b639695411214d\",\"size\":1057,\"hash\":\"bc4fa4d18ae7e593d77b48d884b639695411214d\"},{\"path\":\"app/lib/collections/collection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/collection.js?a63770ed36982b42b340cb61b1ca2800fa85de44\",\"size\":367,\"hash\":\"a63770ed36982b42b340cb61b1ca2800fa85de44\"},{\"path\":\"app/lib/routes/config.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/routes/config.js?1ada691bc9440a5afdbea6f886dfc73e77775f2e\",\"size\":167,\"hash\":\"1ada691bc9440a5afdbea6f886dfc73e77775f2e\"},{\"path\":\"app/lib/routes/home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/routes/home.js?d53cb991f6b0b1c9fee93c9d6a67f017ff5aa255\",\"size\":86,\"hash\":\"d53cb991f6b0b1c9fee93c9d6a67f017ff5aa255\"},{\"path\":\"app/client/views/home/home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/home/home.js?9bb83bdca289dc9db8bff5d36f07da22d2193f38\",\"size\":4525,\"hash\":\"9bb83bdca289dc9db8bff5d36f07da22d2193f38\"},{\"path\":\"app/bootstrap/js/transition.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/transition.js?b50b4578e6bfa341205b376c1179025a53bed2be\",\"size\":1831,\"hash\":\"b50b4578e6bfa341205b376c1179025a53bed2be\"},{\"path\":\"app/bootstrap/js/collapse.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/collapse.js?06af2c33960e1fc0f296d386914d8085704c54e3\",\"size\":5977,\"hash\":\"06af2c33960e1fc0f296d386914d8085704c54e3\"},{\"path\":\"app/bootstrap/js/dropdown.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/dropdown.js?4dc587579c67092051e658c12f6c8afc1ce5bbcd\",\"size\":4652,\"hash\":\"4dc587579c67092051e658c12f6c8afc1ce5bbcd\"},{\"path\":\"app/bootstrap/js/modal.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/modal.js?a5be82cb781571e4e552c589abde5d191abcc1d9\",\"size\":8112,\"hash\":\"a5be82cb781571e4e552c589abde5d191abcc1d9\"},{\"path\":\"app/bootstrap/js/tooltip.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/tooltip.js?d2d0c12f566152782fc6cc3b7a0bea6ecc346d0c\",\"size\":15336,\"hash\":\"d2d0c12f566152782fc6cc3b7a0bea6ecc346d0c\"},{\"path\":\"app/bootstrap/js/popover.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/popover.js?8b2a82ab4508c2f78db7f96c3575feccf0096b26\",\"size\":3507,\"hash\":\"8b2a82ab4508c2f78db7f96c3575feccf0096b26\"},{\"path\":\"app/bootstrap/js/carousel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/carousel.js?9ac27f10ebdcd6ad1fb1a772a0585543e454b2b3\",\"size\":7041,\"hash\":\"9ac27f10ebdcd6ad1fb1a772a0585543e454b2b3\"},{\"path\":\"app/bootstrap/js/affix.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/affix.js?98373701fb65284f67f1579c779ee3d3d31741d8\",\"size\":4791,\"hash\":\"98373701fb65284f67f1579c779ee3d3d31741d8\"},{\"path\":\"app/bootstrap/js/alert.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/alert.js?19ad96e250954bdb2ffe8984f670c79c51194842\",\"size\":2260,\"hash\":\"19ad96e250954bdb2ffe8984f670c79c51194842\"},{\"path\":\"app/bootstrap/js/button.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/button.js?9905036fb93e275db3e8607d24eb955ed2955fa7\",\"size\":3264,\"hash\":\"9905036fb93e275db3e8607d24eb955ed2955fa7\"},{\"path\":\"app/bootstrap/js/scrollspy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/scrollspy.js?672c5c002976bcb2c949cf37418e925afbf19234\",\"size\":4697,\"hash\":\"672c5c002976bcb2c949cf37418e925afbf19234\"},{\"path\":\"app/bootstrap/js/tab.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/tab.js?89467d37ebb25add19b65f4a7f9283e6f08edb49\",\"size\":3789,\"hash\":\"89467d37ebb25add19b65f4a7f9283e6f08edb49\"},{\"path\":\"app/client/accounts.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/accounts.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?3cfe30136434dab57a1fc9d64a01ad61b559fbea\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/3cfe30136434dab57a1fc9d64a01ad61b559fbea.map\",\"size\":12770,\"hash\":\"3cfe30136434dab57a1fc9d64a01ad61b559fbea\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?acf27a727fa9aa2f29f237ade3b2046fb9890e36\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map\",\"size\":11067,\"hash\":\"acf27a727fa9aa2f29f237ade3b2046fb9890e36\"},{\"path\":\"dc7232dcf379091bed3d390729e2feb6754c59af.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/dc7232dcf379091bed3d390729e2feb6754c59af.css\",\"sourceMap\":\"dc7232dcf379091bed3d390729e2feb6754c59af.css.map\",\"sourceMapUrl\":\"/dc7232dcf379091bed3d390729e2feb6754c59af.map\",\"size\":163163,\"hash\":\"dc7232dcf379091bed3d390729e2feb6754c59af\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg\",\"size\":62926,\"hash\":\"66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/images/favicons/apple-touch-icon-114x114.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-114x114.png\",\"size\":1327,\"hash\":\"dff121dd5be746b97ac5b844a3e5451b3ff66a23\"},{\"path\":\"app/images/favicons/apple-touch-icon-120x120.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-120x120.png\",\"size\":1321,\"hash\":\"25b39816cfb1efa843b0318d0ae070d0f3d5f054\"},{\"path\":\"app/images/favicons/apple-touch-icon-144x144.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-144x144.png\",\"size\":1520,\"hash\":\"60f7577beebae7c9d1462e92f4b4db1f337b4eec\"},{\"path\":\"app/images/favicons/apple-touch-icon-152x152.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-152x152.png\",\"size\":1603,\"hash\":\"c744fee43f1cbe5078f38407a5c364d520ced8e5\"},{\"path\":\"app/images/favicons/apple-touch-icon-57x57.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-57x57.png\",\"size\":947,\"hash\":\"a0f966bffe87df71b0a3caa5779592311dec1eaf\"},{\"path\":\"app/images/favicons/apple-touch-icon-60x60.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-60x60.png\",\"size\":959,\"hash\":\"0bf4b7c93cc74dfcad53836b35d798631a78a991\"},{\"path\":\"app/images/favicons/apple-touch-icon-72x72.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-72x72.png\",\"size\":994,\"hash\":\"39ea92ff4f8d8d8ec6e7f5660dfd523b3b81135b\"},{\"path\":\"app/images/favicons/apple-touch-icon-76x76.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-76x76.png\",\"size\":1058,\"hash\":\"b36b1064165d6b1c85c558987087941cc270973e\"},{\"path\":\"app/images/favicons/apple-touch-icon-precomposed.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-precomposed.png\",\"size\":2050,\"hash\":\"23c4593acdb79fb4c883776f9ed2ada7c355d78e\"},{\"path\":\"app/images/favicons/apple-touch-icon.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon.png\",\"size\":1603,\"hash\":\"c744fee43f1cbe5078f38407a5c364d520ced8e5\"},{\"path\":\"app/images/favicons/browserconfig.xml\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/browserconfig.xml\",\"size\":439,\"hash\":\"597e577c1b90c03ba815625ad7a151b44824bb6d\"},{\"path\":\"app/images/favicons/favicon-160x160.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-160x160.png\",\"size\":1653,\"hash\":\"d614bf9b6a3570fe7d07f947c3dc894f7e11f238\"},{\"path\":\"app/images/favicons/favicon-16x16.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-16x16.png\",\"size\":542,\"hash\":\"43e0492ac9ce9abdfd6871a3d0b1f2adc878706b\"},{\"path\":\"app/images/favicons/favicon-192x192.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-192x192.png\",\"size\":1938,\"hash\":\"0198cc62aee881feac480f3a085451174260d299\"},{\"path\":\"app/images/favicons/favicon-32x32.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-32x32.png\",\"size\":738,\"hash\":\"8212f13c2f1a24f6e255bc6e455fd6ad73d5c05a\"},{\"path\":\"app/images/favicons/favicon-96x96.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-96x96.png\",\"size\":1234,\"hash\":\"e602f9011d1046959b7e67db488aca32879f403f\"},{\"path\":\"app/images/favicons/favicon.ico\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon.ico\",\"size\":7406,\"hash\":\"6f759e088a7fd3125d590810eb1d56aff6b28e35\"},{\"path\":\"app/images/favicons/mstile-144x144.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-144x144.png\",\"size\":1520,\"hash\":\"cdad40640d43d69be43da1ab5b3ec1eae6456f1b\"},{\"path\":\"app/images/favicons/mstile-150x150.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-150x150.png\",\"size\":1548,\"hash\":\"ea3b0ba3f3dad4561bdb84adbf35fba69ea33295\"},{\"path\":\"app/images/favicons/mstile-310x150.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-310x150.png\",\"size\":1843,\"hash\":\"ad3b752a613d3a417824d9dbb4fab9ddf37d3093\"},{\"path\":\"app/images/favicons/mstile-310x310.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-310x310.png\",\"size\":3452,\"hash\":\"aa553cd9e95639c9ec4c98214cd17c76150dd954\"},{\"path\":\"app/images/favicons/mstile-70x70.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-70x70.png\",\"size\":1259,\"hash\":\"ab415dcc0644be9c2184330758e6e6ef791c40b8\"},{\"path\":\"head.html\",\"where\":\"internal\",\"type\":\"head\",\"hash\":\"093030af836ec1908d47a9051c3f1b052ca96f8f\"}],\"version\":\"be4852e5939626fd64c59a7bbcc1efaf47ee67f3\"}"
+                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?81e2f06cff198adaa81b3bc09fc4f3728b7370ec\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map\",\"size\":109437,\"hash\":\"81e2f06cff198adaa81b3bc09fc4f3728b7370ec\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?517c8fe8ed6408951a30941e64a5383a7174bcfa\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map\",\"size\":68185,\"hash\":\"517c8fe8ed6408951a30941e64a5383a7174bcfa\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map\",\"size\":35647,\"hash\":\"ac81167b8513b85b926c167bba423981b0c4cf9c\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?e8806aa7782b729b2517ebc0cd10b321667f1427\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map\",\"size\":455881,\"hash\":\"e8806aa7782b729b2517ebc0cd10b321667f1427\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map\",\"size\":617153,\"hash\":\"41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?052f30e968644b2b39a96605ffee73a7684ff37b\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map\",\"size\":147662,\"hash\":\"052f30e968644b2b39a96605ffee73a7684ff37b\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9a5ea03bf057815385bf569c7acc2c285c005491\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map\",\"size\":17152,\"hash\":\"9a5ea03bf057815385bf569c7acc2c285c005491\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map\",\"size\":1296513,\"hash\":\"dd8bac56f8fd3666d433d2285ae01e52597cc51a\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map\",\"size\":60161,\"hash\":\"567eb96d5d22631c03d6aca6afa4c42f0d1295f2\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?efa68f65e67544b5a05509804bf97e2c91ce75eb\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map\",\"size\":391530,\"hash\":\"efa68f65e67544b5a05509804bf97e2c91ce75eb\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?88bb0577cebfbd40b522bb337f8ff8af92244c2f\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map\",\"size\":109093,\"hash\":\"88bb0577cebfbd40b522bb337f8ff8af92244c2f\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?3845cc71ad2dc1378b7d8cc4164a78359506dd40\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map\",\"size\":33170,\"hash\":\"3845cc71ad2dc1378b7d8cc4164a78359506dd40\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?d425554c9847e4a80567f8ca55719cd6ae3f2722\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/d425554c9847e4a80567f8ca55719cd6ae3f2722.map\",\"size\":86389,\"hash\":\"d425554c9847e4a80567f8ca55719cd6ae3f2722\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?6979e41649a22dcf609df30fc533e36037c7ae58\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/6979e41649a22dcf609df30fc533e36037c7ae58.map\",\"size\":69302,\"hash\":\"6979e41649a22dcf609df30fc533e36037c7ae58\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?0e0f6983a838a6516556b08e62894f89720e2c44\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/0e0f6983a838a6516556b08e62894f89720e2c44.map\",\"size\":47239,\"hash\":\"0e0f6983a838a6516556b08e62894f89720e2c44\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map\",\"size\":52275,\"hash\":\"ca4f0f6672edbfb6cafab6e5c024208d9364eac9\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?b02790701804563eafedb2e68c602154983ade06\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/b02790701804563eafedb2e68c602154983ade06.map\",\"size\":41091,\"hash\":\"b02790701804563eafedb2e68c602154983ade06\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?a427868585af16bb88b7c9996b2449aebb8dbf51\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/a427868585af16bb88b7c9996b2449aebb8dbf51.map\",\"size\":216733,\"hash\":\"a427868585af16bb88b7c9996b2449aebb8dbf51\"},{\"path\":\"packages/useraccounts_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_core.js?340d573e558750fc0594085291b63c493facf666\",\"sourceMap\":\"packages/useraccounts_core.js.map\",\"sourceMapUrl\":\"/packages/340d573e558750fc0594085291b63c493facf666.map\",\"size\":284163,\"hash\":\"340d573e558750fc0594085291b63c493facf666\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/softwarerero_accounts-t9n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/softwarerero_accounts-t9n.js?4979cb752c12f089d38eb01cd3df6a744b45f5b4\",\"sourceMap\":\"packages/softwarerero_accounts-t9n.js.map\",\"sourceMapUrl\":\"/packages/4979cb752c12f089d38eb01cd3df6a744b45f5b4.map\",\"size\":135304,\"hash\":\"4979cb752c12f089d38eb01cd3df6a744b45f5b4\"},{\"path\":\"packages/useraccounts_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_bootstrap.js?ae73de95a52cbd1f4ff586494851df89a4095e16\",\"sourceMap\":\"packages/useraccounts_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/ae73de95a52cbd1f4ff586494851df89a4095e16.map\",\"size\":103091,\"hash\":\"ae73de95a52cbd1f4ff586494851df89a4095e16\"},{\"path\":\"packages/alanning_roles.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/alanning_roles.js?79ec06e46df4edfbc286f83d1ad8064d46d44990\",\"sourceMap\":\"packages/alanning_roles.js.map\",\"sourceMapUrl\":\"/packages/79ec06e46df4edfbc286f83d1ad8064d46d44990.map\",\"size\":94498,\"hash\":\"79ec06e46df4edfbc286f83d1ad8064d46d44990\"},{\"path\":\"packages/wizonesolutions_underscore-string.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/wizonesolutions_underscore-string.js?cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\",\"sourceMap\":\"packages/wizonesolutions_underscore-string.js.map\",\"sourceMapUrl\":\"/packages/cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc.map\",\"size\":84636,\"hash\":\"cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\"},{\"path\":\"packages/zimme_iron-router-active.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/zimme_iron-router-active.js?ba8ca19a10973351750da7586ef45c7bfdb13035\",\"sourceMap\":\"packages/zimme_iron-router-active.js.map\",\"sourceMapUrl\":\"/packages/ba8ca19a10973351750da7586ef45c7bfdb13035.map\",\"size\":4369,\"hash\":\"ba8ca19a10973351750da7586ef45c7bfdb13035\"},{\"path\":\"packages/cmather_handlebars-server.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/cmather_handlebars-server.js?c6447646a77dd2f090e33422fff58fbec1bbd4f6\",\"sourceMap\":\"packages/cmather_handlebars-server.js.map\",\"sourceMapUrl\":\"/packages/c6447646a77dd2f090e33422fff58fbec1bbd4f6.map\",\"size\":1310,\"hash\":\"c6447646a77dd2f090e33422fff58fbec1bbd4f6\"},{\"path\":\"packages/dburles_collection-helpers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/dburles_collection-helpers.js?10b8845e36a7fe0526609cd1095b7dae30b9ed8e\",\"sourceMap\":\"packages/dburles_collection-helpers.js.map\",\"sourceMapUrl\":\"/packages/10b8845e36a7fe0526609cd1095b7dae30b9ed8e.map\",\"size\":3586,\"hash\":\"10b8845e36a7fe0526609cd1095b7dae30b9ed8e\"},{\"path\":\"packages/reywood_publish-composite.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reywood_publish-composite.js?f8a4b4678e93f2105df0857cbdfdac20530f2702\",\"sourceMap\":\"packages/reywood_publish-composite.js.map\",\"sourceMapUrl\":\"/packages/f8a4b4678e93f2105df0857cbdfdac20530f2702.map\",\"size\":1310,\"hash\":\"f8a4b4678e93f2105df0857cbdfdac20530f2702\"},{\"path\":\"packages/mrt_moment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_moment.js?d7e4a40c3c8d0a0bbca78591d0b5385f3271212c\",\"sourceMap\":\"packages/mrt_moment.js.map\",\"sourceMapUrl\":\"/packages/d7e4a40c3c8d0a0bbca78591d0b5385f3271212c.map\",\"size\":359656,\"hash\":\"d7e4a40c3c8d0a0bbca78591d0b5385f3271212c\"},{\"path\":\"packages/mrt_underscore-string-latest.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_underscore-string-latest.js?a38ecc39a67ea4036d5d875dd102f3d8ad73174d\",\"sourceMap\":\"packages/mrt_underscore-string-latest.js.map\",\"sourceMapUrl\":\"/packages/a38ecc39a67ea4036d5d875dd102f3d8ad73174d.map\",\"size\":84515,\"hash\":\"a38ecc39a67ea4036d5d875dd102f3d8ad73174d\"},{\"path\":\"packages/matb33_collection-hooks.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/matb33_collection-hooks.js?9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa\",\"sourceMap\":\"packages/matb33_collection-hooks.js.map\",\"sourceMapUrl\":\"/packages/9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa.map\",\"size\":72984,\"hash\":\"9dd7a5c2e0789de54c28fa2bd27fbc6e5e7833fa\"},{\"path\":\"packages/dburles_factory.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/dburles_factory.js?ec6c42c3dfd8ca1b5834bd097904221bce1f1288\",\"sourceMap\":\"packages/dburles_factory.js.map\",\"sourceMapUrl\":\"/packages/ec6c42c3dfd8ca1b5834bd097904221bce1f1288.map\",\"size\":13615,\"hash\":\"ec6c42c3dfd8ca1b5834bd097904221bce1f1288\"},{\"path\":\"packages/anti_fake.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_fake.js?03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad\",\"sourceMap\":\"packages/anti_fake.js.map\",\"sourceMapUrl\":\"/packages/03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad.map\",\"size\":25176,\"hash\":\"03ad503f3edf8bf4d8164dc17f94e65d6f56c6ad\"},{\"path\":\"packages/cunneen_mailgun.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/cunneen_mailgun.js?cc2e1bd8273f433a11fd3b142741d361dc533071\",\"sourceMap\":\"packages/cunneen_mailgun.js.map\",\"sourceMapUrl\":\"/packages/cc2e1bd8273f433a11fd3b142741d361dc533071.map\",\"size\":1364,\"hash\":\"cc2e1bd8273f433a11fd3b142741d361dc533071\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/yasinuslu_blaze-meta.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/yasinuslu_blaze-meta.js?7ef4c16332798864c7f94758409967c40858b01f\",\"sourceMap\":\"packages/yasinuslu_blaze-meta.js.map\",\"sourceMapUrl\":\"/packages/7ef4c16332798864c7f94758409967c40858b01f.map\",\"size\":14078,\"hash\":\"7ef4c16332798864c7f94758409967c40858b01f\"},{\"path\":\"packages/nemo64_bootstrap-data.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/nemo64_bootstrap-data.js?5668c42202b40f6c6ea45d87def47b9c6ced760c\",\"sourceMap\":\"packages/nemo64_bootstrap-data.js.map\",\"sourceMapUrl\":\"/packages/5668c42202b40f6c6ea45d87def47b9c6ced760c.map\",\"size\":1388,\"hash\":\"5668c42202b40f6c6ea45d87def47b9c6ced760c\"},{\"path\":\"packages/nemo64_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/nemo64_bootstrap.js?ec67e21097838440b595b9cec9f3aca5493efadb\",\"sourceMap\":\"packages/nemo64_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/ec67e21097838440b595b9cec9f3aca5493efadb.map\",\"size\":1431,\"hash\":\"ec67e21097838440b595b9cec9f3aca5493efadb\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/accounts-ui-unstyled.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-ui-unstyled.js?1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183\",\"sourceMap\":\"packages/accounts-ui-unstyled.js.map\",\"sourceMapUrl\":\"/packages/1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183.map\",\"size\":249920,\"hash\":\"1ac0cc1f87f6e64d6cfbf5cab2e606405bb49183\"},{\"path\":\"packages/accounts-ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-ui.js?1ff79db616cce9b320fe8aed6103eded31248467\",\"sourceMap\":\"packages/accounts-ui.js.map\",\"sourceMapUrl\":\"/packages/1ff79db616cce9b320fe8aed6103eded31248467.map\",\"size\":1346,\"hash\":\"1ff79db616cce9b320fe8aed6103eded31248467\"},{\"path\":\"packages/percolatestudio_percolatestudio-migrations.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolatestudio_percolatestudio-migrations.js?0353f762f9f3842bc7ff18b335021afcb51552b7\",\"sourceMap\":\"packages/percolatestudio_percolatestudio-migrations.js.map\",\"sourceMapUrl\":\"/packages/0353f762f9f3842bc7ff18b335021afcb51552b7.map\",\"size\":1327,\"hash\":\"0353f762f9f3842bc7ff18b335021afcb51552b7\"},{\"path\":\"packages/peppelg_on-login-logout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/peppelg_on-login-logout.js?58272bb1e22336adf7b3627d97d975293e5f30ac\",\"sourceMap\":\"packages/peppelg_on-login-logout.js.map\",\"sourceMapUrl\":\"/packages/58272bb1e22336adf7b3627d97d975293e5f30ac.map\",\"size\":4957,\"hash\":\"58272bb1e22336adf7b3627d97d975293e5f30ac\"},{\"path\":\"packages/percolate_synced-cron.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolate_synced-cron.js?96fe89b6369ab8b137588115c2138a6da19409cb\",\"sourceMap\":\"packages/percolate_synced-cron.js.map\",\"sourceMapUrl\":\"/packages/96fe89b6369ab8b137588115c2138a6da19409cb.map\",\"size\":1306,\"hash\":\"96fe89b6369ab8b137588115c2138a6da19409cb\"},{\"path\":\"packages/aldeed_simple-schema.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_simple-schema.js?8fda161c43c0ba62801a10b0dfcc3eab75c6db88\",\"sourceMap\":\"packages/aldeed_simple-schema.js.map\",\"sourceMapUrl\":\"/packages/8fda161c43c0ba62801a10b0dfcc3eab75c6db88.map\",\"size\":484169,\"hash\":\"8fda161c43c0ba62801a10b0dfcc3eab75c6db88\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/momentjs_moment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/momentjs_moment.js?d9d4bbdecdb587b374b97f07e2667b0abaf5c73e\",\"sourceMap\":\"packages/momentjs_moment.js.map\",\"sourceMapUrl\":\"/packages/d9d4bbdecdb587b374b97f07e2667b0abaf5c73e.map\",\"size\":375818,\"hash\":\"d9d4bbdecdb587b374b97f07e2667b0abaf5c73e\"},{\"path\":\"packages/aldeed_collection2.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_collection2.js?c35c23c23b5ed785bc3e5b3fb7b1df0c33391790\",\"sourceMap\":\"packages/aldeed_collection2.js.map\",\"sourceMapUrl\":\"/packages/c35c23c23b5ed785bc3e5b3fb7b1df0c33391790.map\",\"size\":70880,\"hash\":\"c35c23c23b5ed785bc3e5b3fb7b1df0c33391790\"},{\"path\":\"packages/aldeed_autoform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_autoform.js?b2b90d28d5cc29be68358bb3c8bb8a337992a7dd\",\"sourceMap\":\"packages/aldeed_autoform.js.map\",\"sourceMapUrl\":\"/packages/b2b90d28d5cc29be68358bb3c8bb8a337992a7dd.map\",\"size\":954267,\"hash\":\"b2b90d28d5cc29be68358bb3c8bb8a337992a7dd\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?cecf2443254038195518d507d5fe0ecdc5dce435\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map\",\"size\":12238,\"hash\":\"cecf2443254038195518d507d5fe0ecdc5dce435\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?a732276f0c2057fc89680d369aad8289b746b7cc\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/a732276f0c2057fc89680d369aad8289b746b7cc.map\",\"size\":557628,\"hash\":\"a732276f0c2057fc89680d369aad8289b746b7cc\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?97f734c1260460f34fb23e644e6a88db38a66a11\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/97f734c1260460f34fb23e644e6a88db38a66a11.map\",\"size\":88652,\"hash\":\"97f734c1260460f34fb23e644e6a88db38a66a11\"},{\"path\":\"packages/elevatedevdesign_template-subscriptions.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/elevatedevdesign_template-subscriptions.js?9c5df61066ff604c2be90a9c860a7a66afc65cf3\",\"sourceMap\":\"packages/elevatedevdesign_template-subscriptions.js.map\",\"sourceMapUrl\":\"/packages/9c5df61066ff604c2be90a9c860a7a66afc65cf3.map\",\"size\":18563,\"hash\":\"9c5df61066ff604c2be90a9c860a7a66afc65cf3\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/meteorhacks_subs-manager.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteorhacks_subs-manager.js?c111c35bff300f100b616995726c151e401eea59\",\"sourceMap\":\"packages/meteorhacks_subs-manager.js.map\",\"sourceMapUrl\":\"/packages/c111c35bff300f100b616995726c151e401eea59.map\",\"size\":19434,\"hash\":\"c111c35bff300f100b616995726c151e401eea59\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?7f53771c84a2eafac2b561c9796dda0d8af8e7f5\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map\",\"size\":42206,\"hash\":\"7f53771c84a2eafac2b561c9796dda0d8af8e7f5\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?cdddc759ebcf80c99a934dcaa85973b3466a07ba\",\"size\":1762,\"hash\":\"cdddc759ebcf80c99a934dcaa85973b3466a07ba\"},{\"path\":\"app/client/views/home/template.home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/home/template.home.js?9cd2c6a2f35b2776372f46d32f9737823d9a8095\",\"size\":1653,\"hash\":\"9cd2c6a2f35b2776372f46d32f9737823d9a8095\"},{\"path\":\"app/client/views/layouts/template.footer.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.footer.js?b00a9554a62b18ad1eaf1978d35646b97433d336\",\"size\":322,\"hash\":\"b00a9554a62b18ad1eaf1978d35646b97433d336\"},{\"path\":\"app/client/views/layouts/template.header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.header.js?002e7816b1fe8027602f07a9934eb55c5b59eaff\",\"size\":2918,\"hash\":\"002e7816b1fe8027602f07a9934eb55c5b59eaff\"},{\"path\":\"app/client/views/layouts/template.layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.layout.js?995d6bb7ce86170751c77382488be8268716085e\",\"size\":704,\"hash\":\"995d6bb7ce86170751c77382488be8268716085e\"},{\"path\":\"app/client/views/shared/template.loading.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/shared/template.loading.js?aba9532fc1c368feb75ff5efb408f4f18d200be0\",\"size\":256,\"hash\":\"aba9532fc1c368feb75ff5efb408f4f18d200be0\"},{\"path\":\"app/client/views/shared/template.notFound.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/shared/template.notFound.js?2f10489228b204fc8fe50c3862618a62a22179ae\",\"size\":351,\"hash\":\"2f10489228b204fc8fe50c3862618a62a22179ae\"},{\"path\":\"app/lib/accounts/config.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/accounts/config.js?bc4fa4d18ae7e593d77b48d884b639695411214d\",\"size\":1057,\"hash\":\"bc4fa4d18ae7e593d77b48d884b639695411214d\"},{\"path\":\"app/lib/collections/collection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/collection.js?a63770ed36982b42b340cb61b1ca2800fa85de44\",\"size\":367,\"hash\":\"a63770ed36982b42b340cb61b1ca2800fa85de44\"},{\"path\":\"app/lib/routes/config.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/routes/config.js?1ada691bc9440a5afdbea6f886dfc73e77775f2e\",\"size\":167,\"hash\":\"1ada691bc9440a5afdbea6f886dfc73e77775f2e\"},{\"path\":\"app/lib/routes/home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/routes/home.js?d53cb991f6b0b1c9fee93c9d6a67f017ff5aa255\",\"size\":86,\"hash\":\"d53cb991f6b0b1c9fee93c9d6a67f017ff5aa255\"},{\"path\":\"app/client/views/home/home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/home/home.js?9bb83bdca289dc9db8bff5d36f07da22d2193f38\",\"size\":4525,\"hash\":\"9bb83bdca289dc9db8bff5d36f07da22d2193f38\"},{\"path\":\"app/bootstrap/js/transition.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/transition.js?b50b4578e6bfa341205b376c1179025a53bed2be\",\"size\":1831,\"hash\":\"b50b4578e6bfa341205b376c1179025a53bed2be\"},{\"path\":\"app/bootstrap/js/collapse.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/collapse.js?06af2c33960e1fc0f296d386914d8085704c54e3\",\"size\":5977,\"hash\":\"06af2c33960e1fc0f296d386914d8085704c54e3\"},{\"path\":\"app/bootstrap/js/dropdown.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/dropdown.js?4dc587579c67092051e658c12f6c8afc1ce5bbcd\",\"size\":4652,\"hash\":\"4dc587579c67092051e658c12f6c8afc1ce5bbcd\"},{\"path\":\"app/bootstrap/js/modal.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/modal.js?a5be82cb781571e4e552c589abde5d191abcc1d9\",\"size\":8112,\"hash\":\"a5be82cb781571e4e552c589abde5d191abcc1d9\"},{\"path\":\"app/bootstrap/js/tooltip.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/tooltip.js?d2d0c12f566152782fc6cc3b7a0bea6ecc346d0c\",\"size\":15336,\"hash\":\"d2d0c12f566152782fc6cc3b7a0bea6ecc346d0c\"},{\"path\":\"app/bootstrap/js/popover.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/popover.js?8b2a82ab4508c2f78db7f96c3575feccf0096b26\",\"size\":3507,\"hash\":\"8b2a82ab4508c2f78db7f96c3575feccf0096b26\"},{\"path\":\"app/bootstrap/js/carousel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/carousel.js?9ac27f10ebdcd6ad1fb1a772a0585543e454b2b3\",\"size\":7041,\"hash\":\"9ac27f10ebdcd6ad1fb1a772a0585543e454b2b3\"},{\"path\":\"app/bootstrap/js/affix.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/affix.js?98373701fb65284f67f1579c779ee3d3d31741d8\",\"size\":4791,\"hash\":\"98373701fb65284f67f1579c779ee3d3d31741d8\"},{\"path\":\"app/bootstrap/js/alert.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/alert.js?19ad96e250954bdb2ffe8984f670c79c51194842\",\"size\":2260,\"hash\":\"19ad96e250954bdb2ffe8984f670c79c51194842\"},{\"path\":\"app/bootstrap/js/button.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/button.js?9905036fb93e275db3e8607d24eb955ed2955fa7\",\"size\":3264,\"hash\":\"9905036fb93e275db3e8607d24eb955ed2955fa7\"},{\"path\":\"app/bootstrap/js/scrollspy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/scrollspy.js?672c5c002976bcb2c949cf37418e925afbf19234\",\"size\":4697,\"hash\":\"672c5c002976bcb2c949cf37418e925afbf19234\"},{\"path\":\"app/bootstrap/js/tab.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/bootstrap/js/tab.js?89467d37ebb25add19b65f4a7f9283e6f08edb49\",\"size\":3789,\"hash\":\"89467d37ebb25add19b65f4a7f9283e6f08edb49\"},{\"path\":\"app/client/accounts.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/accounts.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?3cfe30136434dab57a1fc9d64a01ad61b559fbea\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/3cfe30136434dab57a1fc9d64a01ad61b559fbea.map\",\"size\":12770,\"hash\":\"3cfe30136434dab57a1fc9d64a01ad61b559fbea\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?acf27a727fa9aa2f29f237ade3b2046fb9890e36\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map\",\"size\":11067,\"hash\":\"acf27a727fa9aa2f29f237ade3b2046fb9890e36\"},{\"path\":\"d3912a4ad45c4ebe4c8461833aa477ef13afac65.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/d3912a4ad45c4ebe4c8461833aa477ef13afac65.css\",\"sourceMap\":\"d3912a4ad45c4ebe4c8461833aa477ef13afac65.css.map\",\"sourceMapUrl\":\"/d3912a4ad45c4ebe4c8461833aa477ef13afac65.map\",\"size\":163179,\"hash\":\"d3912a4ad45c4ebe4c8461833aa477ef13afac65\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.svg\",\"size\":62926,\"hash\":\"66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nemo64_bootstrap-data/bootstrap/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/images/favicons/apple-touch-icon-114x114.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-114x114.png\",\"size\":1327,\"hash\":\"dff121dd5be746b97ac5b844a3e5451b3ff66a23\"},{\"path\":\"app/images/favicons/apple-touch-icon-120x120.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-120x120.png\",\"size\":1321,\"hash\":\"25b39816cfb1efa843b0318d0ae070d0f3d5f054\"},{\"path\":\"app/images/favicons/apple-touch-icon-144x144.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-144x144.png\",\"size\":1520,\"hash\":\"60f7577beebae7c9d1462e92f4b4db1f337b4eec\"},{\"path\":\"app/images/favicons/apple-touch-icon-152x152.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-152x152.png\",\"size\":1603,\"hash\":\"c744fee43f1cbe5078f38407a5c364d520ced8e5\"},{\"path\":\"app/images/favicons/apple-touch-icon-57x57.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-57x57.png\",\"size\":947,\"hash\":\"a0f966bffe87df71b0a3caa5779592311dec1eaf\"},{\"path\":\"app/images/favicons/apple-touch-icon-60x60.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-60x60.png\",\"size\":959,\"hash\":\"0bf4b7c93cc74dfcad53836b35d798631a78a991\"},{\"path\":\"app/images/favicons/apple-touch-icon-72x72.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-72x72.png\",\"size\":994,\"hash\":\"39ea92ff4f8d8d8ec6e7f5660dfd523b3b81135b\"},{\"path\":\"app/images/favicons/apple-touch-icon-76x76.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-76x76.png\",\"size\":1058,\"hash\":\"b36b1064165d6b1c85c558987087941cc270973e\"},{\"path\":\"app/images/favicons/apple-touch-icon-precomposed.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon-precomposed.png\",\"size\":2050,\"hash\":\"23c4593acdb79fb4c883776f9ed2ada7c355d78e\"},{\"path\":\"app/images/favicons/apple-touch-icon.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/apple-touch-icon.png\",\"size\":1603,\"hash\":\"c744fee43f1cbe5078f38407a5c364d520ced8e5\"},{\"path\":\"app/images/favicons/browserconfig.xml\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/browserconfig.xml\",\"size\":439,\"hash\":\"597e577c1b90c03ba815625ad7a151b44824bb6d\"},{\"path\":\"app/images/favicons/favicon-160x160.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-160x160.png\",\"size\":1653,\"hash\":\"d614bf9b6a3570fe7d07f947c3dc894f7e11f238\"},{\"path\":\"app/images/favicons/favicon-16x16.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-16x16.png\",\"size\":542,\"hash\":\"43e0492ac9ce9abdfd6871a3d0b1f2adc878706b\"},{\"path\":\"app/images/favicons/favicon-192x192.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-192x192.png\",\"size\":1938,\"hash\":\"0198cc62aee881feac480f3a085451174260d299\"},{\"path\":\"app/images/favicons/favicon-32x32.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-32x32.png\",\"size\":738,\"hash\":\"8212f13c2f1a24f6e255bc6e455fd6ad73d5c05a\"},{\"path\":\"app/images/favicons/favicon-96x96.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon-96x96.png\",\"size\":1234,\"hash\":\"e602f9011d1046959b7e67db488aca32879f403f\"},{\"path\":\"app/images/favicons/favicon.ico\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/favicon.ico\",\"size\":7406,\"hash\":\"6f759e088a7fd3125d590810eb1d56aff6b28e35\"},{\"path\":\"app/images/favicons/mstile-144x144.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-144x144.png\",\"size\":1520,\"hash\":\"cdad40640d43d69be43da1ab5b3ec1eae6456f1b\"},{\"path\":\"app/images/favicons/mstile-150x150.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-150x150.png\",\"size\":1548,\"hash\":\"ea3b0ba3f3dad4561bdb84adbf35fba69ea33295\"},{\"path\":\"app/images/favicons/mstile-310x150.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-310x150.png\",\"size\":1843,\"hash\":\"ad3b752a613d3a417824d9dbb4fab9ddf37d3093\"},{\"path\":\"app/images/favicons/mstile-310x310.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-310x310.png\",\"size\":3452,\"hash\":\"aa553cd9e95639c9ec4c98214cd17c76150dd954\"},{\"path\":\"app/images/favicons/mstile-70x70.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/favicons/mstile-70x70.png\",\"size\":1259,\"hash\":\"ab415dcc0644be9c2184330758e6e6ef791c40b8\"},{\"path\":\"head.html\",\"where\":\"internal\",\"type\":\"head\",\"hash\":\"093030af836ec1908d47a9051c3f1b052ca96f8f\"}],\"version\":\"d80a518b93338144094b118509dfc3ec3b5f8671\"}"
                 },
                 "type": {
                   "type": "constant",
@@ -11137,11 +11137,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "LtCEc7iXraFkzkGhS"
+          "value": "FgzEe3PQX5J9LZW5j"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "2d41183fa865cb9b4d40f5bd4f4de5dba34b77a5"
+          "value": "4117299ca1a7f60568cfa1b1e1b797a8d0bbeaf5"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -23669,15 +23669,15 @@ var packageMetadata = {
                 },
                 "appPath": {
                   "type": "constant",
-                  "value": "/home/jimmie/Documents/meteor-typeahead"
+                  "value": "/home/jimmie/Documents/elevate/blog-code/Meteor_Typeahead_Search-Part_2"
                 },
                 "pid": {
                   "type": "constant",
-                  "value": 18558
+                  "value": 21362
                 },
                 "fout": {
                   "type": "constant",
-                  "value": 39
+                  "value": 27
                 },
                 "child": {
                   "type": "object",
@@ -23696,7 +23696,7 @@ var packageMetadata = {
                     },
                     "pid": {
                       "type": "constant",
-                      "value": 18558
+                      "value": 21362
                     },
                     "stdin": {
                       "type": "null",
