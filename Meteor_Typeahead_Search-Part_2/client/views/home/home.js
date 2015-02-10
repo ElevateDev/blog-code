@@ -4,7 +4,7 @@ function HomeModelImpl(template){
   this.next = 40; // down arrow
   this.previous = 38; // up arrow
   this.selectTop = 39; // right arrow
-  this.undo = 8;
+  this.exitBrowse = 8;
   this.hintElem = '#typeahead-hint';
   this.inputElem = '#typeahead';
   this.searchTerm = new ReactiveVar("");
@@ -87,6 +87,12 @@ HomeModelImpl.prototype.handleKeydown = function(e){
     e.preventDefault();
     e.stopPropagation();
     this._previous();
+  }else if( e.keyCode == this.exitBrowseMode ){
+    if( this.browseMode.get() ){
+      e.preventDefault();
+      e.stopPropagation();
+      this._exitBrowseMode();
+    } 
   }else{
     if( this.browseMode.get() ){
       this._exitBrowseMode();
